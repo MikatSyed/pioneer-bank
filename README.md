@@ -4,11 +4,11 @@
 
  •	User can login
  
- •	User can deposit amount & can see the total deposit amount on deposit section
+ •	User can deposit money & total deposit amount save on  deposit section
  
- •	User also can withdraw amount & can see the total withdraw amount on withdraw section
+ •	User also can withdraw amount & total withdraw amount save on withdraw section
  
- •	User can see the total amount
+ •	User can save  total amount
 
 Click Here to see the Live : https://mikatsyed.github.io/pioneer-bank/index.html
 
